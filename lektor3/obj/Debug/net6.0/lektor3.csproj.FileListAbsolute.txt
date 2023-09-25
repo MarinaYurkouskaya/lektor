@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\мое обучение август\lektor\lektor3\bin\Debug\net6.0\lektor3.exe
+C:\Users\user\Desktop\мое обучение август\lektor\lektor3\bin\Debug\net6.0\lektor3.deps.json
+C:\Users\user\Desktop\мое обучение август\lektor\lektor3\bin\Debug\net6.0\lektor3.runtimeconfig.json
+C:\Users\user\Desktop\мое обучение август\lektor\lektor3\bin\Debug\net6.0\lektor3.dll
+C:\Users\user\Desktop\мое обучение август\lektor\lektor3\bin\Debug\net6.0\lektor3.pdb
+C:\Users\user\Desktop\мое обучение август\lektor\lektor3\obj\Debug\net6.0\lektor3.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\мое обучение август\lektor\lektor3\obj\Debug\net6.0\lektor3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\мое обучение август\lektor\lektor3\obj\Debug\net6.0\lektor3.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\мое обучение август\lektor\lektor3\obj\Debug\net6.0\lektor3.AssemblyInfo.cs
+C:\Users\user\Desktop\мое обучение август\lektor\lektor3\obj\Debug\net6.0\lektor3.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\мое обучение август\lektor\lektor3\obj\Debug\net6.0\lektor3.dll
+C:\Users\user\Desktop\мое обучение август\lektor\lektor3\obj\Debug\net6.0\refint\lektor3.dll
+C:\Users\user\Desktop\мое обучение август\lektor\lektor3\obj\Debug\net6.0\lektor3.pdb
+C:\Users\user\Desktop\мое обучение август\lektor\lektor3\obj\Debug\net6.0\lektor3.genruntimeconfig.cache
+C:\Users\user\Desktop\мое обучение август\lektor\lektor3\obj\Debug\net6.0\ref\lektor3.dll
